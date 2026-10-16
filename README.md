@@ -2,9 +2,13 @@
 ### вариант 26
 ### Решение
 #define _CRT_SECURE_NO_DEPRECATE
+
 #include <locale.h>
+
 #include <stdio.h>
+
 #include <math.h>
+
 int main() 
 {
 	double x, y;
