@@ -12,6 +12,7 @@
 int main() 
 
 {
+
 	double x, y;
 	
 	setlocale(LC_ALL, "ru_RU.UTF-8");
